@@ -1,5 +1,5 @@
 # YoloV4_python_custom-data  
-1.1 Make photo from this video for labeling    
+1.1 Make photo from the video for labeling    
 By tools "YOLO-Annotation-Tool-master" make label  
 1.2 Conver label from   "YOLO-Annotation-Tool-master" type to yolo type  
 example     
