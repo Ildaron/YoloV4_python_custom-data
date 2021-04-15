@@ -9,6 +9,8 @@ C:/Users/image/101.jpg 24,16,52,31,0
 
 
 
-Problems
-For google colab change tf version
+Problems  
+1. For google colab change tf version
 %tensorflow_version 1.x
+2. K.control_flow_ops.while_loop to
+tf.while_loop.
